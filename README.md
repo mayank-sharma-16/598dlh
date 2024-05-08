@@ -6,4 +6,9 @@ This notebook successfully replicates the paper *DeepMSPeptide: peptide detectab
 
 CS 598 - Deep Learning for Healthcare, Team 155 - Mayank Sharma
 
-This notebook requires no additional installations or instructions. Simply run it in Google Colab as is.
+This notebook requires no additional installations or instructions. Simply run it in Google Colab as is. This can run in Jupyter as well, although configuration may be needed to adjust to local environments.
+
+Python version used is 3.10.12
+The requirements.txt file is included in the repository in case of future version conflicts in Google Colab. The default installation for requirements is
+
+``` pip install -r requirements.txt ```
